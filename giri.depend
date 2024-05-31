@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688975493 source:g:\swapna\giri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
